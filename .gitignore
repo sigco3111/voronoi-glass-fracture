@@ -1,0 +1,12 @@
+# Opencode per-project state
+.omo/
+
+# Playwright MCP test artifacts
+.playwright-mcp/
+
+# macOS noise
+.DS_Store
+
+# Editor / OS scratch
+*.swp
+*.bak

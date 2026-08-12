@@ -8,7 +8,7 @@
 
 ## 🎬 라이브 데모
 
-> **👉 [https://voronoi-glass-fracture.vercel.app/](https://voronoi-glass-fracture.vercel.app/)** — 브라우저에서 바로 실행 (60fps)
+> **👉 [https://sigco3111.github.io/voronoi-glass-fracture/](https://sigco3111.github.io/voronoi-glass-fracture/)** — 브라우저에서 바로 실행 (60fps)
 
 | | |
 |---|---|
